@@ -1,0 +1,22 @@
+apiVersion: v1
+entries:
+  msvc-chart:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-10-27T18:09:46.232703866+03:00"
+    description: Microservices project
+    digest: b7d277a030d6dc2851ff99ecf5c7141428e7b5e44345f0512097f729344cdb19
+    maintainers:
+    - email: anshelen@yandex.ru
+      name: Anton Shelenkov
+      url: https://shelenkov.herokuapp.com
+    name: msvc-chart
+    sources:
+    - https://github.com/Anshelen/microservices-backend
+    - https://github.com/Anshelen/microservices-gateway
+    - https://github.com/Anshelen/microservices-deploy
+    type: application
+    urls:
+    - https://ebirukov.github.io/helm-chart/msvc-chart-1.0.0.tgz
+    version: 1.0.0
+generated: "2021-10-27T18:09:46.231204706+03:00"
