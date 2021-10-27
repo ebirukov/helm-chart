@@ -7,9 +7,9 @@ entries:
     description: Microservices project
     digest: b7d277a030d6dc2851ff99ecf5c7141428e7b5e44345f0512097f729344cdb19
     maintainers:
-    - email: anshelen@yandex.ru
-      name: Anton Shelenkov
-      url: https://shelenkov.herokuapp.com
+    - email: john_soft@yandex.ru
+      name: ebirukov
+      url: https://ebirukov.herokuapp.com
     name: msvc-chart
     sources:
     - https://github.com/Anshelen/microservices-backend
